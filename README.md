@@ -4,7 +4,9 @@ This is a simple Python wrapper for OpenAI's GPT-3 API text completion interface
 
 # Setup
 
-1. Create a file named "openai_key" in the root directory. Paste your OpenAI API key into this file. The path to this file is given to the OpenAI Python SDK to authenticate.
+1. Create virtual environment and install packages from `requirements.txt`.
+
+2. Create a file named "openai_key" in the root directory. Paste your OpenAI API key into this file. The path to this file is given to the OpenAI Python SDK to authenticate.
 
 # Use
 
