@@ -17,10 +17,14 @@ The script will call the API using your provided API key, output some informatio
 ### Available profiles:
 
 text_davinci (I/O: `prompt.txt`)
+
 chat_davinci (I/O: `chat_prompt.txt`)
+
 code_davinci (I/O: `code_prompt.txt`)
+
 text_curie (I/O: `prompt.txt`)
-text_ada(I/O: `prompt.txt`)
+
+text_ada (I/O: `prompt.txt`)
 
 OpenAI has great, thorough documentation about best practices in text completion prompt engineering [here.](https://beta.openai.com/docs/guides/completion/introduction)
 
