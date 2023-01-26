@@ -1,10 +1,8 @@
 import openai
 import time
-import os
 import argparse
 import random
 
-api_key = os.environ.get('API_KEY')
 openai.api_key_path = "./openai_key"
 
 parser = argparse.ArgumentParser()
